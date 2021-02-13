@@ -1,7 +1,7 @@
 ###### 
 # null-projects
 # Temporary repository
-# Mini game. By clicking on the platform, white squares appear that can be moved around the platform, which automatically shoot at the red squares and vice versa  ⃞··· ⃞
+# Mini game. By clicking on the platform, white squares appear that can be moved around the platform, which automatically shoot at the red squares and vice versa
 ######
 # To run, you need: 
 # 1) Install the compiler javac
